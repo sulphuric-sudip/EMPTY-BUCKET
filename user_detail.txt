@@ -1,0 +1,10 @@
+1	sudip	isgoodboy
+2	empty	bucket
+3	prasum	isteam
+4	sulphuric	sudip
+5	nepal	buddha
+6	rapid	test
+7	lock	down
+8	tic	tac
+9	sudip1	itadmin
+10	sudip2	admin
